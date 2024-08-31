@@ -59,9 +59,3 @@ GitHub offers [in-person classes](https://services.github.com/#offerings) taught
 
 ## Personal Notes:
 This was taken from the [GitHub Docs repo](https://github.com/github/docs)
-
-### Lorem Ipsum
-Amet dc
-// 'Beatae voluptatem dicta et assumenda fugit eaque quidem consequatur. Fuga unde provident. Id reprehenderit soluta facilis est laborum laborum. Illum aut non ut. Est nulla rem ipsa.
-// Voluptatibus quo pariatur est. Temporibus deleniti occaecati pariatur nemo est molestias voluptas. Doloribus commodi et et exercitationem vel et. Omnis inventore cum aut amet.
-// Sapiente deleniti et. Ducimus maiores eum. Rem dolorem itaque aliquam.'
