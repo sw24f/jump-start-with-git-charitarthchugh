@@ -61,4 +61,4 @@ GitHub offers [in-person classes](https://services.github.com/#offerings) taught
 This was taken from the [GitHub Docs repo](https://github.com/github/docs)
 
 ### Lorem Ipsum
-Amet commodi quo eum eaque maxime.
+Amet dc
