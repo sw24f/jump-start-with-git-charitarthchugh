@@ -56,3 +56,6 @@ GitHub offers [in-person classes](https://services.github.com/#offerings) taught
 ## Community
 
 {% data reusables.support.ask-and-answer-forum %}
+
+## Personal Notes:
+This was taken from the [GitHub Docs repo](https://github.com/github/docs)
