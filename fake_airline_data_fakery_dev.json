@@ -1,0 +1,602 @@
+[
+    {
+        "airline": {
+            "name": "Flydubai",
+            "iataCode": "FZ"
+        }
+    },
+    {
+        "airline": {
+            "name": "Wizz Air",
+            "iataCode": "W6"
+        }
+    },
+    {
+        "airline": {
+            "name": "Satena",
+            "iataCode": "9R"
+        }
+    },
+    {
+        "airline": {
+            "name": "Vietnam Airlines",
+            "iataCode": "VN"
+        }
+    },
+    {
+        "airline": {
+            "name": "Aegean Airlines",
+            "iataCode": "A3"
+        }
+    },
+    {
+        "airline": {
+            "name": "Air Transat",
+            "iataCode": "TS"
+        }
+    },
+    {
+        "airline": {
+            "name": "Condor",
+            "iataCode": "DE"
+        }
+    },
+    {
+        "airline": {
+            "name": "Wizz Air",
+            "iataCode": "W6"
+        }
+    },
+    {
+        "airline": {
+            "name": "AirAsia",
+            "iataCode": "AK"
+        }
+    },
+    {
+        "airline": {
+            "name": "Beijing Capital Airlines",
+            "iataCode": "JD"
+        }
+    },
+    {
+        "airline": {
+            "name": "Air Mauritius",
+            "iataCode": "MK"
+        }
+    },
+    {
+        "airline": {
+            "name": "Fiji Airways",
+            "iataCode": "FJ"
+        }
+    },
+    {
+        "airline": {
+            "name": "Allegiant Air",
+            "iataCode": "G4"
+        }
+    },
+    {
+        "airline": {
+            "name": "EVA Air",
+            "iataCode": "BR"
+        }
+    },
+    {
+        "airline": {
+            "name": "Egyptair",
+            "iataCode": "MS"
+        }
+    },
+    {
+        "airline": {
+            "name": "Qantas Group",
+            "iataCode": "QF"
+        }
+    },
+    {
+        "airline": {
+            "name": "Fiji Airways",
+            "iataCode": "FJ"
+        }
+    },
+    {
+        "airline": {
+            "name": "Vietnam Airlines",
+            "iataCode": "VN"
+        }
+    },
+    {
+        "airline": {
+            "name": "Kenya Airways",
+            "iataCode": "KQ"
+        }
+    },
+    {
+        "airline": {
+            "name": "SunExpress",
+            "iataCode": "XQ"
+        }
+    },
+    {
+        "airline": {
+            "name": "Flydubai",
+            "iataCode": "FZ"
+        }
+    },
+    {
+        "airline": {
+            "name": "Delta Air Lines",
+            "iataCode": "DL"
+        }
+    },
+    {
+        "airline": {
+            "name": "Republic Airways",
+            "iataCode": "YX"
+        }
+    },
+    {
+        "airline": {
+            "name": "JetSMART",
+            "iataCode": "JA"
+        }
+    },
+    {
+        "airline": {
+            "name": "Asiana Airlines",
+            "iataCode": "OZ"
+        }
+    },
+    {
+        "airline": {
+            "name": "Garuda Indonesia",
+            "iataCode": "GA"
+        }
+    },
+    {
+        "airline": {
+            "name": "TUI Airways",
+            "iataCode": "BY"
+        }
+    },
+    {
+        "airline": {
+            "name": "Azur Air",
+            "iataCode": "ZF"
+        }
+    },
+    {
+        "airline": {
+            "name": "Aeromexico",
+            "iataCode": "AM"
+        }
+    },
+    {
+        "airline": {
+            "name": "Juneyao Airlines",
+            "iataCode": "HO"
+        }
+    },
+    {
+        "airline": {
+            "name": "Qantas Group",
+            "iataCode": "QF"
+        }
+    },
+    {
+        "airline": {
+            "name": "Ural Airlines",
+            "iataCode": "U6"
+        }
+    },
+    {
+        "airline": {
+            "name": "Flydubai",
+            "iataCode": "FZ"
+        }
+    },
+    {
+        "airline": {
+            "name": "Gol Linhas Aereas Inteligentes",
+            "iataCode": "G3"
+        }
+    },
+    {
+        "airline": {
+            "name": "Kulula.com",
+            "iataCode": "MN"
+        }
+    },
+    {
+        "airline": {
+            "name": "FlySafair",
+            "iataCode": "FA"
+        }
+    },
+    {
+        "airline": {
+            "name": "AirAsia X",
+            "iataCode": "D7"
+        }
+    },
+    {
+        "airline": {
+            "name": "Virgin Atlantic Airways",
+            "iataCode": "VS"
+        }
+    },
+    {
+        "airline": {
+            "name": "American Airlines",
+            "iataCode": "AA"
+        }
+    },
+    {
+        "airline": {
+            "name": "South African Airways",
+            "iataCode": "SA"
+        }
+    },
+    {
+        "airline": {
+            "name": "Spirit Airlines",
+            "iataCode": "NK"
+        }
+    },
+    {
+        "airline": {
+            "name": "SAS",
+            "iataCode": "SK"
+        }
+    },
+    {
+        "airline": {
+            "name": "Volaris",
+            "iataCode": "Y4"
+        }
+    },
+    {
+        "airline": {
+            "name": "Spirit Airlines",
+            "iataCode": "NK"
+        }
+    },
+    {
+        "airline": {
+            "name": "Delta Air Lines",
+            "iataCode": "DL"
+        }
+    },
+    {
+        "airline": {
+            "name": "Air Mauritius",
+            "iataCode": "MK"
+        }
+    },
+    {
+        "airline": {
+            "name": "Royal Air Maroc",
+            "iataCode": "AT"
+        }
+    },
+    {
+        "airline": {
+            "name": "JetBlue Airways",
+            "iataCode": "B6"
+        }
+    },
+    {
+        "airline": {
+            "name": "TUI Airways",
+            "iataCode": "BY"
+        }
+    },
+    {
+        "airline": {
+            "name": "Thai Airways",
+            "iataCode": "TG"
+        }
+    },
+    {
+        "airline": {
+            "name": "Turkish Airlines",
+            "iataCode": "TK"
+        }
+    },
+    {
+        "airline": {
+            "name": "Star Peru",
+            "iataCode": "2I"
+        }
+    },
+    {
+        "airline": {
+            "name": "Air India",
+            "iataCode": "AI"
+        }
+    },
+    {
+        "airline": {
+            "name": "Star Peru",
+            "iataCode": "2I"
+        }
+    },
+    {
+        "airline": {
+            "name": "Air Algerie",
+            "iataCode": "AH"
+        }
+    },
+    {
+        "airline": {
+            "name": "China Airlines",
+            "iataCode": "CI"
+        }
+    },
+    {
+        "airline": {
+            "name": "Alitalia",
+            "iataCode": "AZ"
+        }
+    },
+    {
+        "airline": {
+            "name": "Air China",
+            "iataCode": "CA"
+        }
+    },
+    {
+        "airline": {
+            "name": "TUI Airways",
+            "iataCode": "BY"
+        }
+    },
+    {
+        "airline": {
+            "name": "Qantas Group",
+            "iataCode": "QF"
+        }
+    },
+    {
+        "airline": {
+            "name": "Air New Zealand",
+            "iataCode": "NZ"
+        }
+    },
+    {
+        "airline": {
+            "name": "Libyan Airlines",
+            "iataCode": "LN"
+        }
+    },
+    {
+        "airline": {
+            "name": "Flydubai",
+            "iataCode": "FZ"
+        }
+    },
+    {
+        "airline": {
+            "name": "Qantas Group",
+            "iataCode": "QF"
+        }
+    },
+    {
+        "airline": {
+            "name": "VivaAerobus",
+            "iataCode": "VB"
+        }
+    },
+    {
+        "airline": {
+            "name": "Flybondi",
+            "iataCode": "FO"
+        }
+    },
+    {
+        "airline": {
+            "name": "Juneyao Airlines",
+            "iataCode": "HO"
+        }
+    },
+    {
+        "airline": {
+            "name": "American Airlines",
+            "iataCode": "AA"
+        }
+    },
+    {
+        "airline": {
+            "name": "Royal Air Maroc",
+            "iataCode": "AT"
+        }
+    },
+    {
+        "airline": {
+            "name": "China Southern Airlines",
+            "iataCode": "CZ"
+        }
+    },
+    {
+        "airline": {
+            "name": "Delta Air Lines",
+            "iataCode": "DL"
+        }
+    },
+    {
+        "airline": {
+            "name": "AirAsia X",
+            "iataCode": "D7"
+        }
+    },
+    {
+        "airline": {
+            "name": "Republic Airways",
+            "iataCode": "YX"
+        }
+    },
+    {
+        "airline": {
+            "name": "South African Airways",
+            "iataCode": "SA"
+        }
+    },
+    {
+        "airline": {
+            "name": "Sun Country Airlines",
+            "iataCode": "SY"
+        }
+    },
+    {
+        "airline": {
+            "name": "Flybondi",
+            "iataCode": "FO"
+        }
+    },
+    {
+        "airline": {
+            "name": "Aerolineas Argentinas",
+            "iataCode": "AR"
+        }
+    },
+    {
+        "airline": {
+            "name": "Air Algerie",
+            "iataCode": "AH"
+        }
+    },
+    {
+        "airline": {
+            "name": "Sichuan Airlines",
+            "iataCode": "3U"
+        }
+    },
+    {
+        "airline": {
+            "name": "Norwegian Air Shuttle",
+            "iataCode": "DY"
+        }
+    },
+    {
+        "airline": {
+            "name": "Wingo",
+            "iataCode": "P5"
+        }
+    },
+    {
+        "airline": {
+            "name": "Philippine Airlines",
+            "iataCode": "PR"
+        }
+    },
+    {
+        "airline": {
+            "name": "Sichuan Airlines",
+            "iataCode": "3U"
+        }
+    },
+    {
+        "airline": {
+            "name": "Condor",
+            "iataCode": "DE"
+        }
+    },
+    {
+        "airline": {
+            "name": "China Eastern Airlines",
+            "iataCode": "MU"
+        }
+    },
+    {
+        "airline": {
+            "name": "Garuda Indonesia",
+            "iataCode": "GA"
+        }
+    },
+    {
+        "airline": {
+            "name": "Southwest Airlines",
+            "iataCode": "WN"
+        }
+    },
+    {
+        "airline": {
+            "name": "Azul Linhas Aereas Brasileiras",
+            "iataCode": "AD"
+        }
+    },
+    {
+        "airline": {
+            "name": "Air New Zealand",
+            "iataCode": "NZ"
+        }
+    },
+    {
+        "airline": {
+            "name": "Air France-KLM",
+            "iataCode": "AF"
+        }
+    },
+    {
+        "airline": {
+            "name": "Garuda Indonesia",
+            "iataCode": "GA"
+        }
+    },
+    {
+        "airline": {
+            "name": "Hainan Airlines",
+            "iataCode": "HU"
+        }
+    },
+    {
+        "airline": {
+            "name": "United Airlines",
+            "iataCode": "UA"
+        }
+    },
+    {
+        "airline": {
+            "name": "Air New Zealand",
+            "iataCode": "NZ"
+        }
+    },
+    {
+        "airline": {
+            "name": "China Southern Airlines",
+            "iataCode": "CZ"
+        }
+    },
+    {
+        "airline": {
+            "name": "Ukraine International",
+            "iataCode": "PS"
+        }
+    },
+    {
+        "airline": {
+            "name": "China Eastern Airlines",
+            "iataCode": "MU"
+        }
+    },
+    {
+        "airline": {
+            "name": "Air Tahiti",
+            "iataCode": "VT"
+        }
+    },
+    {
+        "airline": {
+            "name": "Air Transat",
+            "iataCode": "TS"
+        }
+    },
+    {
+        "airline": {
+            "name": "JetSMART",
+            "iataCode": "JA"
+        }
+    }
+]
