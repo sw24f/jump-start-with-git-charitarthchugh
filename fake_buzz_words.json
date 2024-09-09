@@ -1,0 +1,402 @@
+[
+    {
+        "column": "token",
+        "buzzAdjective": "rich"
+    },
+    {
+        "column": "avatar",
+        "buzzAdjective": "plug-and-play"
+    },
+    {
+        "column": "id",
+        "buzzAdjective": "innovative"
+    },
+    {
+        "column": "phone",
+        "buzzAdjective": "rich"
+    },
+    {
+        "column": "name",
+        "buzzAdjective": "24/7"
+    },
+    {
+        "column": "title",
+        "buzzAdjective": "24/365"
+    },
+    {
+        "column": "name",
+        "buzzAdjective": "24/365"
+    },
+    {
+        "column": "phone",
+        "buzzAdjective": "open-source"
+    },
+    {
+        "column": "token",
+        "buzzAdjective": "plug-and-play"
+    },
+    {
+        "column": "category",
+        "buzzAdjective": "cutting-edge"
+    },
+    {
+        "column": "token",
+        "buzzAdjective": "granular"
+    },
+    {
+        "column": "comment",
+        "buzzAdjective": "back-end"
+    },
+    {
+        "column": "name",
+        "buzzAdjective": "magnetic"
+    },
+    {
+        "column": "createdAt",
+        "buzzAdjective": "one-to-one"
+    },
+    {
+        "column": "id",
+        "buzzAdjective": "back-end"
+    },
+    {
+        "column": "comment",
+        "buzzAdjective": "ubiquitous"
+    },
+    {
+        "column": "token",
+        "buzzAdjective": "bleeding-edge"
+    },
+    {
+        "column": "category",
+        "buzzAdjective": "killer"
+    },
+    {
+        "column": "title",
+        "buzzAdjective": "collaborative"
+    },
+    {
+        "column": "name",
+        "buzzAdjective": "integrated"
+    },
+    {
+        "column": "status",
+        "buzzAdjective": "synergistic"
+    },
+    {
+        "column": "updatedAt",
+        "buzzAdjective": "wireless"
+    },
+    {
+        "column": "phone",
+        "buzzAdjective": "scalable"
+    },
+    {
+        "column": "comment",
+        "buzzAdjective": "sexy"
+    },
+    {
+        "column": "createdAt",
+        "buzzAdjective": "user-centric"
+    },
+    {
+        "column": "createdAt",
+        "buzzAdjective": "transparent"
+    },
+    {
+        "column": "title",
+        "buzzAdjective": "transparent"
+    },
+    {
+        "column": "id",
+        "buzzAdjective": "global"
+    },
+    {
+        "column": "name",
+        "buzzAdjective": "proactive"
+    },
+    {
+        "column": "createdAt",
+        "buzzAdjective": "open-source"
+    },
+    {
+        "column": "title",
+        "buzzAdjective": "distributed"
+    },
+    {
+        "column": "token",
+        "buzzAdjective": "open-source"
+    },
+    {
+        "column": "updatedAt",
+        "buzzAdjective": "best-of-breed"
+    },
+    {
+        "column": "category",
+        "buzzAdjective": "mission-critical"
+    },
+    {
+        "column": "comment",
+        "buzzAdjective": "B2B"
+    },
+    {
+        "column": "phone",
+        "buzzAdjective": "intuitive"
+    },
+    {
+        "column": "comment",
+        "buzzAdjective": "integrated"
+    },
+    {
+        "column": "status",
+        "buzzAdjective": "best-of-breed"
+    },
+    {
+        "column": "id",
+        "buzzAdjective": "vertical"
+    },
+    {
+        "column": "avatar",
+        "buzzAdjective": "extensible"
+    },
+    {
+        "column": "updatedAt",
+        "buzzAdjective": "world-class"
+    },
+    {
+        "column": "avatar",
+        "buzzAdjective": "B2C"
+    },
+    {
+        "column": "email",
+        "buzzAdjective": "magnetic"
+    },
+    {
+        "column": "status",
+        "buzzAdjective": "one-to-one"
+    },
+    {
+        "column": "title",
+        "buzzAdjective": "robust"
+    },
+    {
+        "column": "group",
+        "buzzAdjective": "web-enabled"
+    },
+    {
+        "column": "createdAt",
+        "buzzAdjective": "scalable"
+    },
+    {
+        "column": "phone",
+        "buzzAdjective": "customized"
+    },
+    {
+        "column": "phone",
+        "buzzAdjective": "leading-edge"
+    },
+    {
+        "column": "title",
+        "buzzAdjective": "back-end"
+    },
+    {
+        "column": "id",
+        "buzzAdjective": "revolutionary"
+    },
+    {
+        "column": "comment",
+        "buzzAdjective": "ubiquitous"
+    },
+    {
+        "column": "name",
+        "buzzAdjective": "ubiquitous"
+    },
+    {
+        "column": "email",
+        "buzzAdjective": "B2C"
+    },
+    {
+        "column": "group",
+        "buzzAdjective": "front-end"
+    },
+    {
+        "column": "id",
+        "buzzAdjective": "efficient"
+    },
+    {
+        "column": "password",
+        "buzzAdjective": "seamless"
+    },
+    {
+        "column": "name",
+        "buzzAdjective": "compelling"
+    },
+    {
+        "column": "password",
+        "buzzAdjective": "end-to-end"
+    },
+    {
+        "column": "comment",
+        "buzzAdjective": "24/7"
+    },
+    {
+        "column": "title",
+        "buzzAdjective": "back-end"
+    },
+    {
+        "column": "token",
+        "buzzAdjective": "collaborative"
+    },
+    {
+        "column": "comment",
+        "buzzAdjective": "dot-com"
+    },
+    {
+        "column": "token",
+        "buzzAdjective": "real-time"
+    },
+    {
+        "column": "id",
+        "buzzAdjective": "enterprise"
+    },
+    {
+        "column": "category",
+        "buzzAdjective": "vertical"
+    },
+    {
+        "column": "comment",
+        "buzzAdjective": "intuitive"
+    },
+    {
+        "column": "category",
+        "buzzAdjective": "impactful"
+    },
+    {
+        "column": "updatedAt",
+        "buzzAdjective": "value-added"
+    },
+    {
+        "column": "password",
+        "buzzAdjective": "visionary"
+    },
+    {
+        "column": "createdAt",
+        "buzzAdjective": "real-time"
+    },
+    {
+        "column": "title",
+        "buzzAdjective": "bleeding-edge"
+    },
+    {
+        "column": "title",
+        "buzzAdjective": "visionary"
+    },
+    {
+        "column": "status",
+        "buzzAdjective": "dynamic"
+    },
+    {
+        "column": "token",
+        "buzzAdjective": "back-end"
+    },
+    {
+        "column": "name",
+        "buzzAdjective": "world-class"
+    },
+    {
+        "column": "createdAt",
+        "buzzAdjective": "viral"
+    },
+    {
+        "column": "phone",
+        "buzzAdjective": "front-end"
+    },
+    {
+        "column": "avatar",
+        "buzzAdjective": "turn-key"
+    },
+    {
+        "column": "avatar",
+        "buzzAdjective": "innovative"
+    },
+    {
+        "column": "createdAt",
+        "buzzAdjective": "cross-platform"
+    },
+    {
+        "column": "password",
+        "buzzAdjective": "world-class"
+    },
+    {
+        "column": "avatar",
+        "buzzAdjective": "viral"
+    },
+    {
+        "column": "phone",
+        "buzzAdjective": "enterprise"
+    },
+    {
+        "column": "email",
+        "buzzAdjective": "viral"
+    },
+    {
+        "column": "createdAt",
+        "buzzAdjective": "out-of-the-box"
+    },
+    {
+        "column": "token",
+        "buzzAdjective": "visionary"
+    },
+    {
+        "column": "updatedAt",
+        "buzzAdjective": "clicks-and-mortar"
+    },
+    {
+        "column": "comment",
+        "buzzAdjective": "dot-com"
+    },
+    {
+        "column": "password",
+        "buzzAdjective": "robust"
+    },
+    {
+        "column": "title",
+        "buzzAdjective": "impactful"
+    },
+    {
+        "column": "updatedAt",
+        "buzzAdjective": "robust"
+    },
+    {
+        "column": "group",
+        "buzzAdjective": "viral"
+    },
+    {
+        "column": "password",
+        "buzzAdjective": "collaborative"
+    },
+    {
+        "column": "token",
+        "buzzAdjective": "dynamic"
+    },
+    {
+        "column": "email",
+        "buzzAdjective": "enterprise"
+    },
+    {
+        "column": "createdAt",
+        "buzzAdjective": "integrated"
+    },
+    {
+        "column": "password",
+        "buzzAdjective": "B2C"
+    },
+    {
+        "column": "id",
+        "buzzAdjective": "integrated"
+    },
+    {
+        "column": "password",
+        "buzzAdjective": "intuitively generated from fakery.dev"
+    }
+]
